@@ -7,4 +7,19 @@ Youtube တွင် ပေးပို့သည့် Videos များကိ
 Code များကို နားလည်အောင်ကြိုးစားပါ။
 
 Table of Content
-1. Fundamentals (Printing | Data Types)
+1. Fundamentals
+   1. Programming Model
+   2. Printing (console)
+   3. Data Type
+   4. Variables
+   5. Input
+   6. If else
+   7. For loop/While Loop
+   8. Functions
+   9. OOP
+2. Website
+   1. HTML/CSS/Javascript
+   2. Flask
+3. Telegram
+   1. API explanation
+   2. telegram api

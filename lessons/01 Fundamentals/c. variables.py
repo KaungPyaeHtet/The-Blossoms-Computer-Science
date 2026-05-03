@@ -1,7 +1,7 @@
 name = "Kaung Pyae Htet"
 age = 19
 favourite_subject = "Computer Science"
-teaching = False
+teaching = True
 
 print("Hi! My name is", name)
 print("I am", age, "years old")

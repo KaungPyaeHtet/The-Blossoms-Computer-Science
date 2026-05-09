@@ -13,11 +13,12 @@ Table of Content
    3. Data Type
    4. Variables
    5. Input
-   6. If else
-   7. For loop/While Loop
+   6. If/else (flow control)
+   7. For/While Loop
    8. Data structure (List, Tuple, Dictionary)
-   8. Functions
-   9. OOP
+   9. Functions
+   10. OOP
+   11. API
 2. Website
    1. HTML/CSS/Javascript
    2. Flask
@@ -25,3 +26,4 @@ Table of Content
    1. API explanation
    2. telegram api
 4. Final Project
+

@@ -15,6 +15,7 @@ Table of Content
    5. Input
    6. If else
    7. For loop/While Loop
+   8. Data structure (List, Tuple, Dictionary)
    8. Functions
    9. OOP
 2. Website
@@ -23,3 +24,4 @@ Table of Content
 3. Telegram
    1. API explanation
    2. telegram api
+4. Final Project
